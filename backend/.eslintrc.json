@@ -1,0 +1,12 @@
+{
+  "extends": ["eslint:recommended"],
+  "rules": {},
+  "overrides": [
+  {
+    "files": ["*.js"],
+    "rules": {
+      "semi": "off"
+    }
+  }
+]
+}
