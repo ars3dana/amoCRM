@@ -42,7 +42,7 @@ export default defineComponent({
       },
       {
         label: 'Сделка',
-        value: 'lead',
+        value: 'leads',
       },
       {
         label: 'Контакт',
